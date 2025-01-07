@@ -1,0 +1,16 @@
+// Workspace-Specific Settings
+{
+	// Folders Included in the Workspace
+	"folders": [
+		{
+			"name": "root",
+			"path": "."
+		}
+	],
+
+	// Workspace Settings
+	"settings": {},
+
+	// Recommended Extensions
+	"extensions": {}
+}
